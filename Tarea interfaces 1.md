@@ -4,7 +4,7 @@
 Lo primero que se muestra al ingresar a la pestaña de "Certificados" de Siga es la siguiente pagina, donde hay 2 carpetas que contienen distintos tipos de acciones para realizar/ver estos certificados. Sin embargo hay 2 opciones las cuales no se saben diferenciar bien una de la otra, "Solicitud de certificado" y "Certificado Exento", a simple vista pareciera que para realizar un certificado gratuito hay que entrar a la sección de "Solicitud de certificado" sin embargo,los certificados gratuitos se piden en la sección de "Certificados Exentos".
 
 
-![Tarea%20interfaces%201.png](attachment:Tarea%20interfaces%201.png)
+![Tarea%20interfaces%201.png](TareaIntercez1.png)
 
 El gran error de esta sección esta dado por el orden y los nombres de las subsecciones, los cuales en vez de guiar al usuario dentro de su camino, terminan confudiendolo con su terminologia. 
 
