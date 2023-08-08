@@ -32,7 +32,7 @@ Una vez dentro de la sección de "Certificado extento" se muestra la siguiente i
 
 Además si seleccionamos en las opciones cualquier tipo de certificado, en la pantalla aparece el siguiente icono sin ningún tipo de explicación dentro de la pagina
 
-![Imagen3](Imagenes/img3.png)
+![Imagen3.png](Imagenes/img3.png)
 
 Si el usuario no se da cuenta de la aparición de este icono, puede pensar que la pagina esta en mal estado o que esa funcionalidad no esta implementa.
 
