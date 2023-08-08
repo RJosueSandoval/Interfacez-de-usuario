@@ -38,4 +38,5 @@ Si el usuario no se da cuenta de la aparición de este icono, puede pensar que l
 
 La pagina comete el error de la poca claridad de estos elementos. haciendo pensar que el texto "Generar certificado" sirve para realizar esta tarea en conjunto a la poca claridad del icono.
 
+Su funcionalidad no se explica en ninguna parte y el uso de ese icono en especifico no tiene mayor coherencia con el resto de la pagina. 
 
